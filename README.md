@@ -8,7 +8,7 @@
 ### About my projects:
 - 🍣 [Kintsugi](https://github.com/MartinSobel/Proyecto-Integrador-DH), an E-commerce Sushi webpage. This is my project from the Fullstack dev career of [Digital House](https://www.digitalhouse.com/ar)
 - 🛍 [Argencompras](https://www.argencompras.com.ar/) is where I'm currently working, helping with their website appearance and maintenance, but also creating content for their [Instagram](https://www.instagram.com/argencompras/)
-- 🔍 If you'd like to see the rest of my projects you can enter my [Behance porfolio](https://www.behance.net/agustinposse)
+- 🔍 If you'd like to see the rest of my projects you can enter my [Behance portfolio](https://www.behance.net/agustinposse)
 
 ## 💡 This is what I learned so far:
 <h4>Coding tools<h4>
