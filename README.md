@@ -6,8 +6,8 @@
 - 📫 You can contact me here: agustinposse1@yahoo.com
 
 ### About my projects:
-- 🍣 [Kintsugi](https://www.behance.net/gallery/115804019/Sushi-Web-Page-Design-Development), an E-commerce Sushi web page. This is my project from the Fullstack dev career of [Digital House](https://www.digitalhouse.com/ar). Watch the repository [here](https://github.com/MartinSobel/Proyecto-Integrador-DH).
-- 🚲 [Baiky](https://www.behance.net/gallery/96064769/UX-UI-Baiky-App-Presentation), a mobile app designed for iOS, made for bicyclists. This is the project I made in my UX-UI course at [CoderHouse](https://www.coderhouse.com/)
+- 🍣 [Kintsugi](https://www.behance.net/gallery/115804019/Sushi-Web-Page-Design-Development), an E-commerce Sushi web page. This is my project from the Fullstack dev career of [Digital House](https://www.digitalhouse.com/ar). Watch the [GitHub repo](https://github.com/MartinSobel/Proyecto-Integrador-DH).
+- 🚲 [Baiky](https://www.behance.net/gallery/96064769/UX-UI-Baiky-App-Presentation), a mobile app designed for iOS, made for bicyclists. This is the project I made in the UX-UI course at [CoderHouse](https://www.coderhouse.com/)
 - 🛍 My previous job was at [Argencompras](https://www.argencompras.com.ar/), helping with their website appearance and maintenance, but also creating content for their [Instagram](https://www.instagram.com/argencompras/)
 - 🔍 If you'd like to see the rest of my projects you can enter my [Behance portfolio](https://www.behance.net/agustinposse)
 
